@@ -1,4 +1,4 @@
-jekyll-gulp-sass-browser-sync
+jekyll-gulp-jade-sass-browser-sync
 =============================
 
 A starter project including full setup for Jekyll, GulpJS, Jade, SASS, AutoPrefixer &amp; BrowserSync.
